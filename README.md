@@ -5,6 +5,8 @@
 > * ⭐ There are lots of options for low-cost prototyping and small series production. 
 > * 🌟 Their 24/7 support for payments and for reviewing makes our teams production scale rapdiy!
 
+### Author: Michael Lin (BMS Designer) 
+
 The Masterboard (MST) is a crucial PCB designed for the UBC Solar V4 battery pack, acting as the primary Battery Management System (BMS) interface. This page details the hardware design and functional implementation of the Masterboard.
 
 This project was generously sponsored by [**PCBWay**](https://www.pcbway.com/), who provided manufacturing support for the Masterboard!
